@@ -1,0 +1,9 @@
+C:\strat up program\marianprogramist\Home work 2\homework 2\homework 2\bin\Debug\homework 2.exe.config
+C:\strat up program\marianprogramist\Home work 2\homework 2\homework 2\bin\Debug\homework 2.exe
+C:\strat up program\marianprogramist\Home work 2\homework 2\homework 2\bin\Debug\homework 2.pdb
+C:\strat up program\marianprogramist\Home work 2\homework 2\homework 2\obj\Debug\homework 2.csprojResolveAssemblyReference.cache
+C:\strat up program\marianprogramist\Home work 2\homework 2\homework 2\obj\Debug\homework_2.Properties.Resources.resources
+C:\strat up program\marianprogramist\Home work 2\homework 2\homework 2\obj\Debug\homework 2.csproj.GenerateResource.Cache
+C:\strat up program\marianprogramist\Home work 2\homework 2\homework 2\obj\Debug\homework 2.exe
+C:\strat up program\marianprogramist\Home work 2\homework 2\homework 2\obj\Debug\homework 2.pdb
+C:\strat up program\marianprogramist\Home work 2\homework 2\homework 2\obj\Debug\homework_2.Form1.resources
